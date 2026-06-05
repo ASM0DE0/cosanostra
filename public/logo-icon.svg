@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" fill="none">
+  <!-- Sandwich/Burger Icon -->
+  <g transform="translate(5, 5)">
+    <!-- Bottom Bun -->
+    <path d="M5 35 Q5 40 10 40 L35 40 Q40 40 40 35 L40 32 L5 32 Z" fill="#F59E0B"/>
+    <!-- Patty -->
+    <rect x="6" y="28" width="33" height="4" rx="2" fill="#8B4513"/>
+    <!-- Cheese -->
+    <path d="M5 26 L8 28 L39 28 L42 26 L42 24 L5 24 Z" fill="#FFD700"/>
+    <!-- Lettuce -->
+    <path d="M5 22 Q10 20 15 22 Q20 20 25 22 Q30 20 35 22 Q40 20 42 22 L42 24 L5 24 Z" fill="#228B22"/>
+    <!-- Tomato -->
+    <ellipse cx="23.5" cy="19" rx="17" ry="3" fill="#DC143C"/>
+    <!-- Top Bun -->
+    <path d="M5 18 Q5 8 23.5 8 Q42 8 42 18 L42 19 L5 19 Z" fill="#F59E0B"/>
+    <!-- Sesame Seeds -->
+    <circle cx="15" cy="13" r="1.5" fill="#FFF8DC"/>
+    <circle cx="23" cy="11" r="1.5" fill="#FFF8DC"/>
+    <circle cx="32" cy="13" r="1.5" fill="#FFF8DC"/>
+  </g>
+</svg>
